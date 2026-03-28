@@ -1,11 +1,4 @@
 {
-    "sqltools.connections": [
-        {
-            "previewLimit": 50,
-            "driver": "DuckDB",
-            "name": "ev_data",
-            "database": "ev_data.db"
-        }
-    ],
+    "sqltools.connections": [],
     "sqltools.useNodeRuntime": true
 }
