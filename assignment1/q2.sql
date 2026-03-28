@@ -1,4 +1,3 @@
-SELECT Model_Year, Model, Make
+SELECT COUNT(DISTINCT Model) AS Num_Models
 FROM VehicleModel
-WHERE Model_ID = 510;
-
+WHERE Base_MSRP = 0;
