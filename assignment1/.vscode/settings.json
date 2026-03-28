@@ -1,12 +1,4 @@
 {
-    "sqltools.connections": [
-        {
-            "name": "DuckDB",
-            "accessMode": "Read Only",
-            "previewLimit": 50,
-            "driver": "DuckDB",
-            "databaseFilePath": "/home/rodrigofrancachaves/databases_public_policy/assignment1/ev_data.db"
-        }
-    ],
+    "sqltools.connections": [],
     "sqltools.useNodeRuntime": true
 }
