@@ -1,6 +1,3 @@
-# To edit: nano q7.sql
-# To run: duckdb ev_data.db -> .read q7.sql
-
 SELECT
     vm.Make,
     AVG(vm.Base_MSRP) AS Avg_Base_MSRP

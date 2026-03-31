@@ -1,6 +1,3 @@
-# To edit: nano q5.sql
-# To run: duckdb ev_data.db -> .read q5.sql
-
 SELECT 
     Model,
     Make,

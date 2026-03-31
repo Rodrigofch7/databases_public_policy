@@ -1,6 +1,3 @@
-# To edit: nano q8.sql
-# To run: duckdb ev_data.db -> .read q8.sql
-
 SELECT
     vm.Make,
     vm.Model
