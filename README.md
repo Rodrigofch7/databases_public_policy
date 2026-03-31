@@ -11,3 +11,6 @@ This repository contains coursework for the **Databases for Public Policy** clas
 This course covers the fundamentals of database design and SQL querying applied 
 to public policy analysis, including working with relational databases, writing 
 queries, and extracting insights from datasets.
+
+# To edit: nano qN.sql
+# To run: duckdb ev_data.db -> .read qN.sql
