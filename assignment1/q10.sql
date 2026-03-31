@@ -1,6 +1,3 @@
-# To edit: nano q10.sql
-# To run: duckdb ev_data.db -> .read q10.sql
-
 WITH CountyRegistrations AS (
     SELECT l.County
     FROM Registration r

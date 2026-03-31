@@ -1,6 +1,3 @@
-# To edit: nano q9.sql
-# To run: duckdb ev_data.db -> .read q9.sql
-
 SELECT
     l.County,
     COUNT(r.DOL_Vehicle_ID) AS Total_Registered,

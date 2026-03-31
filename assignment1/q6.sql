@@ -1,6 +1,3 @@
-# To edit: nano q6.sql
-# To run: duckdb ev_data.db -> .read q6.sql
-
 SELECT 
     l.County,
     AVG(vm.Model_Year) AS Avg_Model_Year
