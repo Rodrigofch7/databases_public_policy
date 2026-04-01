@@ -15,4 +15,5 @@ queries, and extracting insights from datasets.
 # Example
 # To run: 
 duckdb ev_data.db 
+
 .read q(query_number).sql
