@@ -13,4 +13,6 @@ to public policy analysis, including working with relational databases, writing
 queries, and extracting insights from datasets.
 
 # Example
-# To run: duckdb ev_data.db -> .read qN.sql
+# To run: 
+duckdb ev_data.db 
+.read q(query_number).sql
